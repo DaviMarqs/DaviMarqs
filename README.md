@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Davi Marques!
 
 - 🔭 Atualmente estou em busca de um trabalho como front-end, back-end ou fullstack.
-- 🌱 Estudando HTML, CSS, JavaScript.
+- 🌱 Estudando React.js, Node.js, JavaScrip, HTML, CSS.
 
 <div align="center">
   <a href="https://github.com/DaviMarqs">
