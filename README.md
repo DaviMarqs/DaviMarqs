@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Davi Marques!
 
 - 🔭 Software Developer.
-- 🌱 Estudando React.js, Node.js, JavaScript, HTML, CSS.
+- 🌱 React.js, Node.js, JavaScript, HTML, CSS.
 
 <div align="center">
   <a href="https://github.com/DaviMarqs">
